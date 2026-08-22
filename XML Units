@@ -1,0 +1,56 @@
+<GameData>
+    <Units>
+        <Row>
+            <Type>UNIT_LANCIA_CROSSBOW</Type>
+            <Class>UNITCLASS_LANCIA_CROSSBOW</Class>
+            <!-- Unlocks at Military Science -->
+            <PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
+            <Combat>24</Combat>
+            <RangedCombat>18</RangedCombat>
+            <Range>1</Range>
+            <Cost>170</Cost>
+            <Moves>4</Moves>
+            <CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
+            <Domain>DOMAIN_LAND</Domain>
+            <DefaultUnitAI>UNITAI_RANGED</DefaultUnitAI>
+            <Description>TXT_KEY_UNIT_LANCIA_CROSSBOW</Description>
+            <MilitarySupport>true</MilitarySupport>
+            <MilitaryProduction>true</MilitaryProduction>
+            <Pillage>true</Pillage>
+        </Row>
+    </Units>
+
+    <Unit_FreePromotions>
+        <!-- Custom promotion to trigger the C++ melee anti-cavalry math -->
+        <Row>
+            <UnitType>UNIT_LANCIA_CROSSBOW</UnitType>
+            <PromotionType>PROMOTION_LANCIA_ANTI_MOUNTED</PromotionType>
+        </Row>
+        <!-- Custom promotion to trigger the C++ ranged vulnerability math -->
+        <Row>
+            <UnitType>UNIT_LANCIA_CROSSBOW</UnitType>
+            <PromotionType>PROMOTION_LANCIA_RANGED_VULNERABILITY</PromotionType>
+        </Row>
+    </Unit_FreePromotions>
+
+    <UnitPromotions>
+        <!-- Define the Anti-Mounted dummy promotion -->
+        <Row>
+            <Type>PROMOTION_LANCIA_ANTI_MOUNTED</Type>
+            <Description>TXT_KEY_PROMOTION_LANCIA_ANTI_MOUNTED</Description>
+            <Help>TXT_KEY_PROMOTION_LANCIA_ANTI_MOUNTED_HELP</Help>
+            <CannotBeChosen>true</CannotBeChosen>
+            <PortraitIndex>58</PortraitIndex>
+            <IconAtlas>ABILITY_ATLAS</IconAtlas>
+        </Row>
+        <!-- Define the Ranged Vulnerability dummy promotion -->
+        <Row>
+            <Type>PROMOTION_LANCIA_RANGED_VULNERABILITY</Type>
+            <Description>TXT_KEY_PROMOTION_LANCIA_RANGED_VULNERABILITY</Description>
+            <Help>TXT_KEY_PROMOTION_LANCIA_RANGED_VULNERABILITY_HELP</Help>
+            <CannotBeChosen>true</CannotBeChosen>
+            <PortraitIndex>59</PortraitIndex>
+            <IconAtlas>ABILITY_ATLAS</IconAtlas>
+        </Row>
+    </UnitPromotions>
+</GameData>
