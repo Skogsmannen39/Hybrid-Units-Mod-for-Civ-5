@@ -4,7 +4,7 @@ By Skogsmannen39
 
 ## What is a hybrid unit?
 
-A hybrid unit is a unit that has multiple types of attacks, typically a close-range attack and a long-range attack.
+A hybrid unit is a unit that has multiple types of attacks, typically a close-range melee attack and a long-range attack.
 
 ## What is included in this mod?
 
