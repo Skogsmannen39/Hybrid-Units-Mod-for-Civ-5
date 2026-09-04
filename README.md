@@ -33,7 +33,7 @@ Can move after attacking
 Base Melee Combat Power: 40
 
 Base Ranged Combat Power: 20
-Range: 4
+Range: 3
 ## Melee Buffs and Debuffs: 
 Formation 1(+33% vs Mounted in melee)
 
@@ -45,3 +45,5 @@ Note: Name: Tight Formation?
 Base Movement: 4
 
 Can move after attacking
+
+## Special Action: See John Hawkwood Great General.
