@@ -13,7 +13,7 @@ A modded CoreDLL, new units and maybe a new great general for England.
 
 
 
-## Lancia Base Stats:
+# Lancia Base Stats:
 Base Melee Combat Power: 40
 
 Base Ranged Combat Power: 20
@@ -24,3 +24,7 @@ Formation 1(+33% vs Mounted in melee)
 ## Ranged Buffs and Debuffs:
 Custom Promotion(-50% when defending against ranged attacks) 
 Note: Name: Tight Formation?
+
+## Movement:
+Base Movement: 4
+Can move after attacking
