@@ -12,5 +12,12 @@ A modded CoreDLL, new units and maybe a new great general for England.
 
 
 ## Lancia stats:
-Base Combat Power: 40
-Buffs and Debuffs: Formation 1(+33% vs Mounted) only in melee.
+Base Melee Combat Power: 40
+
+Base Ranged Combat Power: 20
+
+## Melee Buffs and Debuffs: 
+Formation 1(+33% vs Mounted in melee)
+
+## Ranged Buffs and Debuffs:
+Custom Promotion(-50% when defending against ranged attacks)
