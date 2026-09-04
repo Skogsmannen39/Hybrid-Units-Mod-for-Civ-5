@@ -46,4 +46,4 @@ Base Movement: 4
 
 Can move after attacking
 
-## Special Action: See John Hawkwood Great General.
+## Special Action: See Great General John Hawkwood.
