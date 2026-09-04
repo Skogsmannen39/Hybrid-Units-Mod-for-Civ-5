@@ -30,3 +30,18 @@ Base Movement: 4
 Can move after attacking
 
 # English Lancia Base Stats:
+Base Melee Combat Power: 40
+
+Base Ranged Combat Power: 20
+Range: 4
+## Melee Buffs and Debuffs: 
+Formation 1(+33% vs Mounted in melee)
+
+## Ranged Buffs and Debuffs:
+Custom Promotion(-50% when defending against ranged attacks) 
+Note: Name: Tight Formation?
+
+## Movement:
+Base Movement: 4
+
+Can move after attacking
