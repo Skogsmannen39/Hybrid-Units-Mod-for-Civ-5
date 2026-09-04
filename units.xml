@@ -5,9 +5,9 @@
             <Class>UNITCLASS_LANCIA_CROSSBOW</Class>
             <!-- Unlocks at Military Science -->
             <PrereqTech>TECH_MILITARY_SCIENCE</PrereqTech>
-            <Combat>24</Combat>
-            <RangedCombat>18</RangedCombat>
-            <Range>1</Range>
+            <Combat>40</Combat>
+            <RangedCombat>20</RangedCombat>
+            <Range>2</Range>
             <Cost>170</Cost>
             <Moves>4</Moves>
             <CombatClass>UNITCOMBAT_MOUNTED</CombatClass>
