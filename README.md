@@ -27,4 +27,5 @@ Note: Name: Tight Formation?
 
 ## Movement:
 Base Movement: 4
+
 Can move after attacking
