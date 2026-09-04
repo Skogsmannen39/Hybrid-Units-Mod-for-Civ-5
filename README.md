@@ -11,7 +11,9 @@ A hybrid unit is a unit that has multiple types of attacks, typically a close-ra
 A modded CoreDLL, new units and maybe a new great general for England.
 
 
-## Lancia stats:
+
+
+## Lancia Base Stats:
 Base Melee Combat Power: 40
 
 Base Ranged Combat Power: 20
