@@ -22,4 +22,5 @@ Base Ranged Combat Power: 20
 Formation 1(+33% vs Mounted in melee)
 
 ## Ranged Buffs and Debuffs:
-Custom Promotion(-50% when defending against ranged attacks)
+Custom Promotion(-50% when defending against ranged attacks) 
+Note: Name: Tight Formations?
