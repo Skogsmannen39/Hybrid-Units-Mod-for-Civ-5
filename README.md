@@ -13,10 +13,10 @@ New units, a new great general for England, a framework for hybrid unit function
 
 
 # Lancia Base Stats:
-Base Melee Combat Power: 
+Base Melee Combat Power: 41
 
-Base Ranged Combat Power: 
-Range: 
+Base Ranged Combat Power: 20
+Range: 2
 ## Melee Buffs and Debuffs: 
 The same anticav buff that the lancer has.
 
@@ -25,14 +25,14 @@ Custom Promotion(-50% when defending against ranged attacks)
 Note: Name: Tight Formation?
 
 ## Movement:
-Base Movement: 
+Base Movement: 4
 
 Can move after attacking
 
 # English Lancia Base Stats:
-Base Melee Combat Power: 
+Base Melee Combat Power: 41
 
-Base Ranged Combat Power: 
+Base Ranged Combat Power: 20
 Range: 3
 ## Melee Buffs and Debuffs: 
 The same anticav buff that the lancer has.
