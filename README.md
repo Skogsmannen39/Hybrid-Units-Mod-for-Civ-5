@@ -48,15 +48,21 @@ Can move after attacking
 
 ## Special Action: See Great General John Hawkwood.
 
+## Notes:
+Unique unit that replaces the lancia if you or the AI plays as England.
 
 # Great General John Hawkwood
 Base Movement: 2
 
 ## Special Action: Instead of creating a citatel as a normal great general, John Hawkwood may, if he is standing on the same hextile as an english lancia he joins them, creating "The White Company" a unique unit that can only be created once.
 
+## Notes:
+Gets spawned inside or close to the city where the first English lancia gets built. Only exists once, and can't get spawned in any other way.
+
 # The White Company
 
-## Can only be created when an english lancia and Great General John hawkwood are on the same tile and when the unit is created it consumes John Hawkwood.
+## Notes:
+Can only be created when an english lancia and Great General John hawkwood are on the same tile and when the unit is created it consumes John Hawkwood.
 
 ## Base stats:
 Base Melee Combat Power: 41 
