@@ -53,3 +53,22 @@ Can move after attacking
 Base Movement: 2
 
 ## Special Action: Instead of creating a citatel as a normal great general, John Hawkwood may, if he is standing on the same hextile as an english lancia he joins them, creating "The White Company" a unique unit that can only be created once.
+
+# The White Company
+
+## Can only be created when an english lancia and Great General John hawkwood are on the same tile and when the unit is created it consumes John Hawkwood.
+
+## Base stats:
+Base Melee Combat Power: 41 
+
+Base Ranged Combat Power: 20
+Range: 3
+## Melee Buffs and Debuffs:
+The same anticav buff that the lancer has.
+
+## Ranged Buffs and Debuffs:
+Custom Promotion(-50% when defending against ranged attacks) 
+Note: Name: Tight Formation?
+
+## Special Buff:
+Exude the same +15% Attack and Defense buff as a great general.
