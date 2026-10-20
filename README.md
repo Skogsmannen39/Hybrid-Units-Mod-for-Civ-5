@@ -57,7 +57,7 @@ Base Movement: 2
 ## Special Action: Instead of creating a citatel as a normal great general, John Hawkwood may, if he is standing on the same hextile as an english lancia he joins them, creating "The White Company" a unique unit that can only be created once.
 
 ## Notes:
-Gets spawned inside or close to the city where the first English lancia gets built. Only exists once, and can't get spawned in any other way.
+Gets spawned inside or close to the city where the first English lancia gets built. Only exists once, and can't get spawned in any other way. Does not replace all of englands normal great generals.
 
 # The White Company
 
